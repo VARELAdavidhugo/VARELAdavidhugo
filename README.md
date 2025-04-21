@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Bonjour, je suis David Hugo VARELA DURAN
 
-<!--
-**VARELAdavidhugo/VARELAdavidhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 En formation Administrateur Systèmes DevOps chez M2i  
+🚀 Passionné par l'automatisation, la conteneurisation, l'intégration continue et la supervision
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences techniques
+
+- **Systèmes** : Linux (Debian, Ubuntu), Windows Server  
+- **Conteneurs** : Docker, Kubernetes  
+- **CI/CD** : Jenkins, GitLab CI/CD, GitHub Actions  
+- **Automatisation** : Ansible, Terraform, Bash, Python  
+- **Supervision** : Prometheus, Grafana, Thruk, Nagios  
+- **Virtualisation & Cloud** : Proxmox, Azure
+
+---
+
+## 🚀 Projets DevOps
+
+### [🏥 Application Hospitalière – Projet DevOps](https://github.com/VARELAdavidhugo/Hospital)  
+🔧 Infrastructure multi-VM avec Proxmox  
+🐳 Dockerisation de services (PHP, MariaDB, Nginx)  
+⚙️ Déploiement automatisé avec Ansible  
+🛠️ CI/CD avec Jenkins & GitHub Actions  
+📡 Monitoring avec Prometheus & Grafana  
+🔐 Reverse proxy sécurisé avec Traefik
+
+---
+
+## 📬 Me contacter
+
+- [LinkedIn](https://www.linkedin.com/in/david-hugo-varela-duran/)  
+- [Docker Hub](https://hub.docker.com/repositories/vareladavid)  
+- [Email](mailto:vareladavidhugo@gmail.com)
+
+---
+
+> 💡 Je suis disponible pour un stage de 3 mois à partir de juin 2025 pour contribuer activement à une équipe DevOps.
+
